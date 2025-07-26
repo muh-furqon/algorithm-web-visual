@@ -8,10 +8,10 @@ export const algorithmData = {
         complexity: "O(n^2)",
       },
       {
-        name: "Bubble Sort",
-        path: "/sorting/bubble-sort",
-        description: "Repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.",
-        complexity: "O(n^2)",
+        name: "Heap Sort",
+        path: "/sorting/heap-sort",
+        description: "A comparison-based sort that uses a Binary Heap data structure to build a max-heap and then repeatedly extracts the maximum element.",
+        complexity: "O(n log n)",
       },
       {
         name: "Merge Sort",
